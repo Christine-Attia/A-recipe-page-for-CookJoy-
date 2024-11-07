@@ -1,0 +1,88 @@
+body{
+    background-color: #FFF5E1;
+}
+.navbar{
+    background-color: #FFF5E1;
+    font-size: 17px;
+    font-family: 'Arimo';
+    color: #6B4226;
+    border-bottom-width: 2px;
+    border-bottom-color: #6B4226;
+    border-bottom-style:solid;
+}
+.navbar-brand{
+    font-size: 30px;
+    color: #6B4226;
+    font-weight: 900;
+    
+}
+#header{
+    background-color: #FFF5E1;
+}
+h1 {
+    font-family: "Tinos", serif;
+    font-weight: 600;
+    color: #6B4226;
+    margin-top: 30px;
+}
+.card{
+    background-color: transparent;
+}
+.card-cake{
+    margin-left: 30px;
+}
+.card-img-top{
+    width: 100%;
+}
+.card-text{
+    color: #6B4226;
+    font-size: 16px;
+    font-family: 'Arimo';
+}
+.time{
+    margin-left: 40px;
+    margin-top: 40px;
+    padding-top: 40px;
+    font-family: 'Arimo';
+    color: #6B4226;
+}
+.i{
+    font-size: 22px;
+    margin-right: 10px;
+    color: #6B4226;
+}
+.ingredients,
+.method{
+    font-size: 22px;
+    font-family: "Tinos", serif;
+}
+.ingredient{
+    font-family: 'Arimo';
+    color: #6B4226;
+    font-size: 16px;
+    list-style: circle;
+    line-height: 50px;
+}
+.step{
+    font-family: 'Arimo';
+    color: #6B4226;
+    font-size: 16px;
+    max-width: 800px;
+    line-height: 25px;
+}
+.container-fluid{
+    background-color: #6B4226;
+    width: 100%;
+    padding: 20px;
+}
+.cook{
+    color: #FFF5E1;
+    font-family: 'Arimo';
+    font-size: 70px;
+}
+.info{
+    list-style: none;
+    color: #FFF5E1;
+    font-size: 16px;
+    font-family: 'Arimo';
+}
